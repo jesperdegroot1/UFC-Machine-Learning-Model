@@ -1,4 +1,4 @@
-UFC Fight Prediction Model
+# UFC Fight Prediction Model
 This project is a machine learning model that predicts the winner of UFC fights using fighter statistics. The model is built with PyTorch and trained using historical fight data. It also includes a graphical user interface (GUI) that allows users to select two fighters and predict the probability of a particular fighter winning.
 
 Table of Contents
